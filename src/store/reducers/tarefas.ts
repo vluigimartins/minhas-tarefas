@@ -11,7 +11,7 @@ const initialState: TarefasState = {
   itens: [
     {
       id: 1,
-      descricao: 'Estudar Javascript refendo o módulo 7',
+      descricao: 'Rever o módulo 7',
       prioridade: enums.Prioridade.NORMAL,
       status: enums.Status.CONCLUIDA,
       titulo: 'Estudar Javascript'
